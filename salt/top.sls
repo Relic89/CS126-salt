@@ -8,3 +8,4 @@ base:
     - selinux
     - config.nfs-config
     - packages.nfs
+    - config.sshd
