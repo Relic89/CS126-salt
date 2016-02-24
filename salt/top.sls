@@ -7,3 +7,4 @@ base:
     - iptables
     - selinux
     - config.nfs-config
+    - packages.nfs
