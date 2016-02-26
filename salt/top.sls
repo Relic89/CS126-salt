@@ -9,3 +9,5 @@ base:
     - config.nfs-config
     - packages.nfs
     - config.sshd
+    - config.samba-config
+    - config.smb
